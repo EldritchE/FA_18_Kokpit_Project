@@ -1,0 +1,3 @@
+narzaie działa na jednym ekspanderze, zmieniono wszystkie zmienne tworzace gruopy przycisków i grupy enkoderów przez dodanie 1 na koncu każdej ze zmiennych. Umozliwia to dodanie
+nowego wkspandera i w miare potrzeby utowrzenie nowych grup enkoderów lub buttonów, Nie wiem czy to zadziała ale sznsa jet.
+zeby stworzc nowe grupy trzeba pamietac że bedą to nowe obiekty i dodaTKOWE NOWE PROCEDURY SPRAWDZAJĄCE W void (ODWOLANIA DO NICH I SAME PROCEDURY) TE STARE PIERWOTNE JUZ MAJA NADANY NUMEREK 1 
